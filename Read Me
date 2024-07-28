@@ -1,0 +1,27 @@
+# Race and Stake
+
+## Overview
+
+Race and Stake is a racing game where players can collect NFT upgrades for their virtual cars. Players can also place bets on the outcomes of the races. By participating in the game and collecting NFTs, players have the chance to redeem a real RC car when they accumulate 30 DOT (9 NFTs).
+
+## Features
+
+- **NFT Upgrades**: Players can collect NFTs that provide upgrades to their cars, enhancing attributes such as speed, handling, and boost.
+- **Betting**: Players can place bets on the outcomes of races, betting on themselves or other players to win or lose.
+- **Rewards**: Collect 30 DOT (9 NFTs) to redeem a real RC car.
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js
+- npm
+- Unique Network SDK
+- Polkadot.js API
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/race-and-stake.git
+   cd race-and-stake
